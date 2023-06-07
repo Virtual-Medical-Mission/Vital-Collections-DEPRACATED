@@ -1,3 +1,5 @@
+#Created By Nihal Sekhon based code by Embedotronics Technologies on youtube. 
+
 import serial
 import MySQLdb
 import time
