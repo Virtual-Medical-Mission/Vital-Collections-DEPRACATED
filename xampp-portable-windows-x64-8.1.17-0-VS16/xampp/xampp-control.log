@@ -1,0 +1,59 @@
+11:28:44 PM  [main] 	Initializing Control Panel
+11:28:44 PM  [main] 	Windows Version:  Home  64-bit
+11:28:44 PM  [main] 	XAMPP Version: 8.1.17
+11:28:44 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+11:28:44 PM  [main] 	You are not running with administrator rights! This will work for
+11:28:44 PM  [main] 	most application stuff but whenever you do something with services
+11:28:44 PM  [main] 	there will be a security dialogue or things will break! So think 
+11:28:44 PM  [main] 	about running this application with administrator rights!
+11:28:44 PM  [main] 	XAMPP Installation Directory: "c:\users\nppro\downloads\xampp-portable-windows-x64-8.1.17-0-vs16\xampp\"
+11:28:44 PM  [main] 	Checking for prerequisites
+11:28:44 PM  [main] 	All prerequisites found
+11:28:44 PM  [main] 	Initializing Modules
+11:28:44 PM  [main] 	The FileZilla module is disabled
+11:28:44 PM  [main] 	The Mercury module is disabled
+11:28:44 PM  [main] 	Starting Check-Timer
+11:28:44 PM  [main] 	Control Panel Ready
+11:28:47 PM  [Apache] 	Attempting to start Apache app...
+11:28:47 PM  [Apache] 	Status change detected: running
+11:28:48 PM  [Apache] 	Status change detected: stopped
+11:28:48 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+11:28:48 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+11:28:48 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+11:28:48 PM  [Apache] 	Press the Logs button to view error logs and check
+11:28:48 PM  [Apache] 	the Windows Event Viewer for more clues
+11:28:48 PM  [Apache] 	If you need more help, copy and post this
+11:28:48 PM  [Apache] 	entire log window on the forums
+11:29:02 PM  [main] 	Deinitializing Modules
+11:29:02 PM  [main] 	Deinitializing Control Panel
+
+11:29:05 PM  [main] 	Initializing Control Panel
+11:29:05 PM  [main] 	Windows Version:  Home  64-bit
+11:29:05 PM  [main] 	XAMPP Version: 8.1.17
+11:29:05 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+11:29:05 PM  [main] 	You are not running with administrator rights! This will work for
+11:29:05 PM  [main] 	most application stuff but whenever you do something with services
+11:29:05 PM  [main] 	there will be a security dialogue or things will break! So think 
+11:29:05 PM  [main] 	about running this application with administrator rights!
+11:29:05 PM  [main] 	XAMPP Installation Directory: "c:\users\nppro\downloads\xampp-portable-windows-x64-8.1.17-0-vs16\xampp\"
+11:29:05 PM  [main] 	Checking for prerequisites
+11:29:05 PM  [main] 	All prerequisites found
+11:29:05 PM  [main] 	Initializing Modules
+11:29:05 PM  [main] 	The FileZilla module is disabled
+11:29:05 PM  [main] 	The Mercury module is disabled
+11:29:05 PM  [main] 	Starting Check-Timer
+11:29:05 PM  [main] 	Control Panel Ready
+11:29:18 PM  [Apache] 	Attempting to start Apache app...
+11:29:22 PM  [mysql] 	Attempting to start MySQL app...
+11:29:23 PM  [mysql] 	Status change detected: running
+11:29:23 PM  [mysql] 	Status change detected: stopped
+11:29:23 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+11:29:23 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+11:29:23 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+11:29:23 PM  [mysql] 	Press the Logs button to view error logs and check
+11:29:23 PM  [mysql] 	the Windows Event Viewer for more clues
+11:29:23 PM  [mysql] 	If you need more help, copy and post this
+11:29:23 PM  [mysql] 	entire log window on the forums
+6:42:12 PM  [main] 	Deinitializing Modules
+6:42:12 PM  [main] 	Deinitializing Control Panel
+
